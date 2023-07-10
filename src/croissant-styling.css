@@ -1,0 +1,25 @@
+body {
+  background-color: #eab0d9ce;
+}
+
+h1,
+p {
+  color: white;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+footer a {
+  margin: 0 15px;
+  color: #7e80ff;
+}
+
+.perfect-croissant {
+  max-width: 50%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
